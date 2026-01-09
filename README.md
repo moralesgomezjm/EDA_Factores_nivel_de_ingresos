@@ -20,3 +20,5 @@ Recordad que solo es necesario un repositorio por equipo. Para crearlo usando es
 ---
 
 **¡Buena suerte con vuestro análisis exploratorio de datos!**
+
+Enlace al video: https://drive.google.com/file/d/1wB3KmmSwcqVvjDqKoqYYslhXh_LP3kaF/view?usp=drive_link
